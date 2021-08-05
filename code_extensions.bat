@@ -3,6 +3,7 @@
 @REM Windows CMD sintax.
 @REM call {"program_installation_path_(bin_folder)"} {--program_cmd_commands}
 
+call "C:\Program Files\Microsoft VS Code\bin\code" --install-extension ms-vscode.cpptools
 call "C:\Program Files\Microsoft VS Code\bin\code" --install-extension nico-castell.linux-desktop-file
 call "C:\Program Files\Microsoft VS Code\bin\code" --install-extension erikphansen.vscode-toggle-column-selection
 call "C:\Program Files\Microsoft VS Code\bin\code" --install-extension ritwickdey.LiveServer
