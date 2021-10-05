@@ -11,10 +11,10 @@ exit
 REM Backup Script Sintax:
 
 REM @echo off
-REM robocopy [source][destination] /e(everything) /eta(estimated time)
+REM robocopy [source] [destination] /e(everything) /eta(estimated time)
 REM If the directory contains spaces, use the "" to tell the script to read the directory path as STRING!
-REM Exemple: 
+REM Example: 
 
-REM robocopy [source][destination] /e(everything) /eta(estimated time)
+REM robocopy "[source]" "[destination]" /e(everything) /eta(estimated time)
 REM robocopy "C:\path" "C:\path" /e /eta
 REM exit
