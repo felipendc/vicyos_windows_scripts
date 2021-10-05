@@ -1,6 +1,6 @@
 REM This script has been created only for programming learning purposes:
 
-REM This is a simple script that makes a restores MS Office. 
+REM This is a simple script that restores MS Office. 
 REM My internet conection isn't that fast. So, I don't want to redownload the same program several times.
 
 REM --------------------------------------------------------------------------------------------------------
