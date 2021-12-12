@@ -1,7 +1,7 @@
 @REM INSTALL CODE AND ATOM EXTENTIONS ON WINDOWS:
 
 @REM Windows .bat sintax.
-@REM call {"program_installation_path_(bin\code.bin or apm.bin)"} {--program_cmd_commands}
+@REM call {"program_installation_path_(.bin or .exe file)"} {bin_file arguments}
 
 call "C:\Users\felip\AppData\Local\Programs\Microsoft VS Code\bin\code" --install-extension ms-vscode.cpptools
 call "C:\Users\felip\AppData\Local\Programs\Microsoft VS Code\bin\code" --install-extension nico-castell.linux-desktop-file
