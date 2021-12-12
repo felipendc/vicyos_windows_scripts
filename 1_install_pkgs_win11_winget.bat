@@ -11,11 +11,11 @@
 
 @REM Personal basic apps:
 winget install -e --id Git.Git --silent --accept-source-agreements
+winget install -e --id Google.Chrome --silent --accept-source-agreements
 winget install -e --id Microsoft.VisualStudioCode --silent --accept-source-agreements
 winget install -e --id GitHub.Atom --silent --accept-source-agreements
 winget install -e --id VideoLAN.VLCNightly --silent --accept-source-agreements
 winget install -e --id Discord.Discord --silent --accept-source-agreements
-winget install -e --id Google.Chrome --silent --accept-source-agreements
 winget install -e --id Python.Python --silent --accept-source-agreements
 winget install -e --id qBittorrent.qBittorrent --silent --accept-source-agreements
 winget install -e --id RARLab.WinRARBeta --silent --accept-source-agreements
