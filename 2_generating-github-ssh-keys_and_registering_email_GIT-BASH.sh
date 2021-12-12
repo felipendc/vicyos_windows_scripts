@@ -1,6 +1,7 @@
 #!/bin/bash
 # Script automated by Felipe Ndc 
 
+# RUN THIS FILE WITH GIT-BASH
 
 # Doing the MAGIC under the hood:
 ssh-keygen -t ed25519 -C "felipendc10@gmail.com"
