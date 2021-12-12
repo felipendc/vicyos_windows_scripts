@@ -1,6 +1,6 @@
 # Windows 11 Pro Personal Scripts
 #### Now, using Chocolatey as Package Manager for Windows 11. It's simplier and cleaner!
-##### Always run the choco commands as administrator!
+#### Always run the choco commands as administrator!
 
 <br>
 
