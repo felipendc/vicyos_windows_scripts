@@ -58,6 +58,3 @@ apm install Sublime-Style-Column-Selection
 apm install linter-eslint
 apm install atom-live-server-plus
 apm install open-in-browsers
-
-@REM UNINSTALL ATOM EXTENTIONS FOR WINDOWS:
-
