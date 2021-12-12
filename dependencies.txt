@@ -1,0 +1,3 @@
+vs code 
+atom 
+git bash = ssh gen key
