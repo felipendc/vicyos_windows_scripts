@@ -1,4 +1,4 @@
-@REM Converted from Bash to Bat by Felipe Ndc:
+@REM Script converted from Bash to Bat by Felipe Ndc:
 @REM github.com/felipendc
 
 @REM Go back to the root (main) folder
