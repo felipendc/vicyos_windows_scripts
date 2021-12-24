@@ -9,6 +9,15 @@
 @REM  If you are already running Windows 11 Pro - Dev version, 
 @REM you won't need to install the choco package manager manually.
 
+
+@REM Installing Chocolatey
+@REM Set-ExecutionPolicy AllSigned
+@REM Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
+@REM choco  -?
+
+@REM Installing Ubuntu for WSL
+@REM  wsl --install -d Ubuntu
+
 @REM Personal basic apps:
 choco install chrome-remote-desktop-chrome -y 
 choco install nvidia-display-driver -y
