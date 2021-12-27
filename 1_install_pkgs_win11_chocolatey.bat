@@ -32,6 +32,7 @@ choco install 7zip.install -y
 @REM choco install vim -y 
 
 choco install git -y 
+choco install vlc -y 
 choco install vscode -y 
 choco install atom -y 
 choco install discord -y 
